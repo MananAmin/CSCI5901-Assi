@@ -1,3 +1,5 @@
 application_record.csv filter=lfs diff=lfs merge=lfs -text
 credit_record.csv filter=lfs diff=lfs merge=lfs -text
 Application_Data.csv filter=lfs diff=lfs merge=lfs -text
+credit.csv filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
